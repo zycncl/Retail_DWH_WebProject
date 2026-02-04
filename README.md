@@ -1,4 +1,6 @@
-# Retail_DWH_WebProject # Mini Retail Data Warehouse
+# Retail_DWH_WebProject
+
+     Mini Retail Data Warehouse
 
 Bu proje, Kaggle Online Retail dataset kullanılarak yapılmış mini bir Data Warehouse’dur.  
 - Star Schema: FactSales + Dimension Tables (Customer, Product, Date)  
