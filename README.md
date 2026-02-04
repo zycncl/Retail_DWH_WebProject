@@ -5,7 +5,7 @@
 Bu proje, Kaggle Online Retail dataset kullanılarak yapılmış mini bir Data Warehouse’dur.  
 - Star Schema: FactSales + Dimension Tables (Customer, Product, Date)  
 - KPI’lar: Total Revenue, Avg Basket Size, YoY Growth  
-- Dashboard: Plotly Table ile interaktif KPI tablosu
+- Dashboard: Plotly Table ile interaktif KPI tablosu with Power BI
 
 Çalıştırmak için:
 1. Gereksinimleri yükle: pip install -r requirements.txt
